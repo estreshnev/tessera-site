@@ -1,7 +1,7 @@
 # Tessera — site
 
 Privacy policy and terms of use for the iOS game **Tessera**
-(bundle id `com.nativeiosgames.tessera`), published by Strathmore News Plus Ltd
+(bundle id `com.strathmorenewsplus.tessera`), published by Strathmore News Plus Ltd
 via GitHub Pages.
 
 The app links the policy from its Settings screen and follows the language the
